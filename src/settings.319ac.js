@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/game.fire",orientation:"",jsList:["assets/scripts/socket.io.83da3.js"],bundleVers:{internal:"d17e2",resources:"5ff7a",main:"9a324"}};
